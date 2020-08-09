@@ -1,0 +1,13 @@
+D:\Wolf\8console\8console\bin\Debug\netcoreapp3.1\8console.exe
+D:\Wolf\8console\8console\bin\Debug\netcoreapp3.1\8console.deps.json
+D:\Wolf\8console\8console\bin\Debug\netcoreapp3.1\8console.runtimeconfig.json
+D:\Wolf\8console\8console\bin\Debug\netcoreapp3.1\8console.runtimeconfig.dev.json
+D:\Wolf\8console\8console\bin\Debug\netcoreapp3.1\8console.dll
+D:\Wolf\8console\8console\bin\Debug\netcoreapp3.1\8console.pdb
+D:\Wolf\8console\8console\obj\Debug\netcoreapp3.1\8console.csprojAssemblyReference.cache
+D:\Wolf\8console\8console\obj\Debug\netcoreapp3.1\8console.csproj.CoreCompileInputs.cache
+D:\Wolf\8console\8console\obj\Debug\netcoreapp3.1\8console.AssemblyInfoInputs.cache
+D:\Wolf\8console\8console\obj\Debug\netcoreapp3.1\8console.AssemblyInfo.cs
+D:\Wolf\8console\8console\obj\Debug\netcoreapp3.1\8console.dll
+D:\Wolf\8console\8console\obj\Debug\netcoreapp3.1\8console.pdb
+D:\Wolf\8console\8console\obj\Debug\netcoreapp3.1\8console.genruntimeconfig.cache
